@@ -1,3 +1,10 @@
+// create a menu for Banking system which have : 
+//  1-> create an account
+//  2-> Deposite
+//  3-> withdraw
+//  4-> Check Balance
+//  5-> Exit
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -81,6 +88,5 @@ public class Account {
             }
         }
     }
-
 
 
